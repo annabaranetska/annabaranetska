@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @annabaranetska
+- 👋 Hi, I’m Anna Baranetska
 - 👀 I’m interested in backend mostly, but also I'd like to start learning more about frontend
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on some projects
-- 📫 How to reach me: on LinkedIn
+- 🌱 I am mostly working with Java
 
 <!---
 annabaranetska/annabaranetska is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
